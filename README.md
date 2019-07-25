@@ -1,6 +1,6 @@
 ## Solución Preguntas planteadas Parcial 1.
 
-##Pregunta 1. 
+#Pregunta 1. 
 
 Tiempos observados: 
 a)
