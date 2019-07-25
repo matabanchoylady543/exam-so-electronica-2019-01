@@ -1,8 +1,9 @@
 ## Solución Preguntas planteadas Parcial 1.
 
-#Pregunta 1. 
+*Pregunta 1. 
 
 Tiempos observados: 
+
 a)
  Arg de entrada: 1000000
  tiempos: 
@@ -58,7 +59,7 @@ puede notar que el valor que da al cerrar la puerta antes
 del ciclo será un valor variable pero al ubicar for justo antes de incrementar la variable, esta sera la misma en todas las pruebas, lo cual se puede entender como que esta conservando el hilo en este valor.
 
 
-#Pregunta 4.
+*Pregunta 4.
 
 a) El porcentaje del tiempo que la cpu está corriendo es del 100% debido a que el programa especifica que el segundo parámetro pasado a este es la posibilidad de que este se ejecute al 100%.
 
